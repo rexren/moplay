@@ -1,4 +1,4 @@
-package com.hikvision.rensu;
+package com.hikvision.rensu.moplay.user;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

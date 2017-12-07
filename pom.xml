@@ -5,14 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hikvision.rensu</groupId>
-    <artifactId>spring-cloud-learning</artifactId>
+    <artifactId>moplay</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>eureka-server</module>
         <module>user-service</module>
         <module>site</module>
-        <!--<module>config-server</module>-->
+        <module>component-service</module>
         <module>trace-server</module>
     </modules>
 

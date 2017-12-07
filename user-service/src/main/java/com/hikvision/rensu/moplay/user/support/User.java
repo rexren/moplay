@@ -1,4 +1,4 @@
-package com.hikvision.rensu.support;
+package com.hikvision.rensu.moplay.user.support;
 
 import java.io.Serializable;
 
